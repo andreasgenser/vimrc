@@ -387,4 +387,4 @@ endfunction
 " my changes
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set number
-set relativenumber
+" set relativenumber
